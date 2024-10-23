@@ -3,4 +3,4 @@ scipy>=1.5.2
 imutils>=0.5.4
 deskew>=0.10.36
 easyocr
-tensorflow==2.10.0
+tensorflow==2.17.0
